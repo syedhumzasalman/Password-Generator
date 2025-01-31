@@ -4,7 +4,7 @@ function passGenerator() {
   let number = "123456789";
   let uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
   let lowercase = "abcdefghijklmnopqrstuvwxyz"
-  let symbol = "!@#$%^&*?~;'"
+  let symbol = "!@#$%^&*?~;'<>/:{][}_)(+="
 
   
   let password = "";
